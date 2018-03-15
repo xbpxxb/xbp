@@ -57,3 +57,15 @@
       opacity: 0;
   }
 }
+.fp-controlArrow{
+  opacity: .3;
+}
+.fp-controlArrow:hover{
+  opacity: .7;
+}
+.fp-controlArrow.fp-next{
+  right: 60px
+}
+.fp-controlArrow.fp-prev{
+  left: 60px;
+}
